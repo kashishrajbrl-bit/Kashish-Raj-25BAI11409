@@ -28,5 +28,6 @@ The program compares user-entered symptoms (in natural language) against known s
 - **High Confidence**: ≥75% of your symptoms match
 - **Medium Confidence**: 50–74%
 - **Low Confidence**: <50%
+<img width="1270" height="599" alt="image" src="https://github.com/user-attachments/assets/fb263c8c-bcb5-4fe8-b7c5-fd92962022ed" />
 
 
