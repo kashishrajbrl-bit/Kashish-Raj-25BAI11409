@@ -29,10 +29,4 @@ The program compares user-entered symptoms (in natural language) against known s
 - **Medium Confidence**: 50–74%
 - **Low Confidence**: <50%
 
-## Usage
 
-1. Save the script as `crop_disease_checker.py`
-2. Run it in your terminal:
-
-```bash
-python crop_disease_checker.py
