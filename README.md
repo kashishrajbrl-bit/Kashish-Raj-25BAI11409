@@ -152,12 +152,7 @@ Add probability scoring using NLP
 
 
 
----
-
-🧑‍🌾 Disclaimer
-
-This tool provides basic guidance only.
-Always consult a local agronomist or plant expert before applying chemicals.
+Output:
 <img width="1270" height="599" alt="image" src="https://github.com/user-attachments/assets/fb263c8c-bcb5-4fe8-b7c5-fd92962022ed" />
 
 
